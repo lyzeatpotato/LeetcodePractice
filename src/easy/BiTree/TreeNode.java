@@ -1,4 +1,4 @@
-package easy.day15;
+package easy.BiTree;
 
 /**
  * @ClassName: TreeNode
@@ -8,9 +8,9 @@ package easy.day15;
  */
 
 public class TreeNode {
-    TreeNode left;
-    TreeNode right;
-    int val;
+    public TreeNode left;
+    public TreeNode right;
+    public int val;
 
     public TreeNode() {
     }
